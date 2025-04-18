@@ -140,3 +140,4 @@ To validate network segmentation, pings were attempted between VMs on separate s
 
 ## Links to the various Phases of the Implementation - Attack and Defend
 1. 🧨 Exploiting the FTP vsftpd 2.3.4 Service Vulnerability - https://tinyurl.com/Exploiting-FTP-vsftpd-Service
+2. 🧨 Dictionary Attack on the VNC Service - https://tinyurl.com/Dict-Attack-on-VNC-service
